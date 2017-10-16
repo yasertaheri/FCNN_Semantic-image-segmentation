@@ -2,7 +2,7 @@
 """
 Created on Thu May  4 13:57:02 2017
 
-@author: y_moh
+@author:  Yaser M. Taheri
 """
 
 import tensorflow as tf
